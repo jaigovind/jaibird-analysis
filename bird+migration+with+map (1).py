@@ -88,6 +88,8 @@ plt.xlabel("2d speed")
 
 
 # In[ ]:
+z=4
+print(z)
 
 
 
